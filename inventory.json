@@ -1,0 +1,5 @@
+{
+  "Black Hoodie": {"price": 3500, "sizes": {"S": 0, "M": 5, "L": 3, "XL": 0}},
+  "Cotton Cap": {"price": 1200, "sizes": {"Free": 12}},
+  "Grey Joggers": {"price": 2800, "sizes": {"S": 4, "M": 6, "L": 0}}
+}

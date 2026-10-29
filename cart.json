@@ -1,0 +1,20 @@
+{
+  "customer_name": "Ayesha",
+  "items": [
+    {
+      "name": "Black Hoodie",
+      "size": "M",
+      "price": 3500
+    },
+    {
+      "name": "Cotton Cap",
+      "price": 1200
+    }
+  ],
+  "cart_total": 4700,
+  "shipping_cost": 300,
+  "free_shipping_above": 5000,
+  "amount_needed_for_free_shipping": 300,
+  "return_policy": "7 din mein return ya exchange",
+  "currency": "PKR"
+}

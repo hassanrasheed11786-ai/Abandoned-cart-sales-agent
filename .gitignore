@@ -1,0 +1,9 @@
+.env
+logs/
+logs_old/
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+.qoder/
